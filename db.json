@@ -1,22 +1,5 @@
 {
   "products": [
-    {
-      "id": "sga05",
-      "rate": 13999,
-      "type": "mobile",
-      "name": "Samsung Galaxy A05s",
-      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a057fzkhins/gallery/in-galaxy-a-sm-a057fzkhins-front-black-538631021?$400_256_PNG$",
-      "company": "samsung",
-      "RAM": ["6GB", "4GB"],
-      "ROM": ["128GB"],
-      "battery": "5000mah",
-      "camera": {
-        "front-camera": "13MP",
-        "back-camera": "50MP"
-      },
-      "processor": ["Snapdragon 680", "Octa Core", "2.4Ghz"],
-      "display": "6.72 inch"
-    },
 
     {
       "id": "sgs23",
