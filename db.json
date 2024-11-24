@@ -1,6 +1,5 @@
 {
   "products": [
-
     {
       "id": "sgs23",
       "rate": 64999,
@@ -16,7 +15,8 @@
         "back-camera": "50MP"
       },
       "processor": ["Qualcomm Snapdragon 8 Gen 2", "Octa Core", "3.36Ghz"],
-      "display": "6.1 inch"
+      "display": "6.1 inch",
+      "quantity": 1
     },
     {
       "id": "sgf34",
@@ -33,7 +33,8 @@
         "back-camera": "50MP"
       },
       "processor": ["Exynos 1280", "Octa Core", "2.4Ghz"],
-      "display": "6.72 inch"
+      "display": "6.72 inch",
+      "quantity": 1
     },
     {
       "id": "mi13c",
@@ -50,7 +51,8 @@
         "back-camera": "50MP"
       },
       "processor": ["Mediatek", "Octa Core", "1Ghz"],
-      "display": "6.72 inch"
+      "display": "6.72 inch",
+      "quantity": 1
     },
     {
       "id": "min12",
@@ -67,7 +69,8 @@
         "back-camera": "50MP"
       },
       "processor": ["Snapdragon 685", "Octa Core", "2.8Ghz"],
-      "display": "6.67 inch"
+      "display": "6.67 inch",
+      "quantity": 1
     },
     {
       "id": "mi11i",
@@ -84,7 +87,8 @@
         "back-camera": "108MP"
       },
       "processor": ["Mediatek Dimensity 920", "Octa Core", "2.5 Ghz"],
-      "display": "6.67 inch"
+      "display": "6.67 inch",
+      "quantity": 1
     },
     {
       "id": "mi11lne",
@@ -101,7 +105,8 @@
         "back-camera": "64MP"
       },
       "processor": ["Qualcomm Snapdragon 778G", "Octa Core", "2.4 Ghz"],
-      "display": "6.67 inch"
+      "display": "6.67 inch",
+      "quantity": 1
     },
     {
       "id": "opnce3",
@@ -118,7 +123,8 @@
         "back-camera": "108MP"
       },
       "processor": ["snapdragon", "Octa Core", "2.42 Ghz"],
-      "display": "6.72 inch"
+      "display": "6.72 inch",
+      "quantity": 1
     },
     {
       "id": "op11r",
@@ -135,7 +141,8 @@
         "back-camera": "50MP"
       },
       "processor": ["snapdragon", "Octa Core", "3.2 Ghz"],
-      "display": "6.7 inch"
+      "display": "6.7 inch",
+      "quantity": 1
     },
     {
       "id": "op10p",
@@ -152,7 +159,8 @@
         "back-camera": "50MP"
       },
       "processor": ["snapdragon", "Dual Core", "2.4 Ghz"],
-      "display": "6.7 inch"
+      "display": "6.7 inch",
+      "quantity": 1
     },
     {
       "id": "hpv15fa1145TX",
@@ -169,7 +177,8 @@
       "display": "15.6 inch",
       "Operating System": "Windows 11 Home",
       "Graphic Card": "NVIDIA GeForce RTX 2050",
-      "Graphics Memory": "4 GB"
+      "Graphics Memory": "4 GB",
+      "quantity": 1
     },
     {
       "id": "hpv15hr0001TU",
@@ -185,7 +194,8 @@
       "processor": "13th GEN Intel Core i5",
       "display": "15.6 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "Intel Integrated Iris Xe"
+      "Graphic Card": "Intel Integrated Iris Xe",
+      "quantity": 1
     },
     {
       "id": "hppa13be2048au",
@@ -201,7 +211,8 @@
       "processor": "Ryzen 7 Octa Core",
       "display": "13.3 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "AMD Radeon"
+      "Graphic Card": "AMD Radeon",
+      "quantity": 1
     },
     {
       "id": "dellam16r1",
@@ -217,7 +228,8 @@
       "processor": "AMD Ryzen™ 9 7845HX",
       "display": "16 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "NVIDIA® GeForce RTX™ 4080, 12 GB GDDR6"
+      "Graphic Card": "NVIDIA® GeForce RTX™ 4080, 12 GB GDDR6",
+      "quantity": 1
     },
     {
       "id": "delli14",
@@ -233,7 +245,8 @@
       "processor": "AMD Ryzen™ 7 7730U ",
       "display": "14 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "AMD Radeon™ Graphics"
+      "Graphic Card": "AMD Radeon™ Graphics",
+      "quantity": 1
     },
     {
       "id": "dellng15",
@@ -249,7 +262,8 @@
       "processor": "AMD Ryzen™5 7640HS",
       "display": "14 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "NVIDIA® GeForce RTX™ 3050"
+      "Graphic Card": "NVIDIA® GeForce RTX™ 3050",
+      "quantity": 1
     },
     {
       "id": "atufga15",
@@ -265,7 +279,8 @@
       "processor": "AMD Ryzen™9 7040",
       "display": "15.6 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "NVIDIA® GeForce RTX™ 4060"
+      "Graphic Card": "NVIDIA® GeForce RTX™ 4060",
+      "quantity": 1
     },
     {
       "id": "arsg17",
@@ -281,7 +296,8 @@
       "processor": "AMD Ryzen™ 9 6900HX",
       "display": "15.6 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "NVIDIA® GeForce RTX™ 3070Ti"
+      "Graphic Card": "NVIDIA® GeForce RTX™ 3070Ti",
+      "quantity": 1
     },
     {
       "id": "azbp14",
@@ -297,8 +313,9 @@
       "processor": "13th Gen Intel® Core™ i5 ",
       "display": "13.3 inch",
       "Operating System": "Windows 11 Home",
-      "Graphic Card": "NVIDIA GeForce RTX 4050 "
+      "Graphic Card": "NVIDIA GeForce RTX 4050 ",
+      "quantity": 1
     }
   ],
-  "order":[]
+  "order": []
 }
